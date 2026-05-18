@@ -4,6 +4,7 @@
   "description": "A complete CI/CD pipeline with GitOps as a practice.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"No tests specified\" && exit 0"
   },
   "author": "",
