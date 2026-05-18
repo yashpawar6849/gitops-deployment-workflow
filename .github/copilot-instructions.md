@@ -1,0 +1,4 @@
+- [ ] Project scaffolded with required structure and files (no README.md, no contributors section)
+- [ ] .dockerignore and Makefile included
+- [ ] All placeholder files created in argocd, config, kubernetes, and template folders
+- [ ] Ready for further customization or deployment
